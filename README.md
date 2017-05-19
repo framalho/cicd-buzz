@@ -5,7 +5,7 @@ Software developers are problem solvers. Although they can be very tenacious abo
 
 A way to ship code in small increments and iterations is by using a Continuous Integration and Continuous Deployment, or CI/CD, pipeline. In this tutorial we’ll go through all the steps in setting up such a pipeline using free and hosted services. From start to end this tutorial shows you in 9 steps how to:
 
-1. Write a little Python program (not Hello World)
+1. Write a little Python program: generator.py (not Hello World)
 1. Add some automated tests for the program
 1. Push your code to GitHub
 1. Setup Travis CI to continuously run your automated tests
